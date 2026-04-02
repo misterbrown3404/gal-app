@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "gal-api"
+		},
+		{
+			"path": "gal"
+		},
+		{
+			"path": "gal_admin"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
